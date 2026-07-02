@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shweta-nasc/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -65,8 +69,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
