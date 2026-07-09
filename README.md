@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-nasc/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shweta-nasc/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
