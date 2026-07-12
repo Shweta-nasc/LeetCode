@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
