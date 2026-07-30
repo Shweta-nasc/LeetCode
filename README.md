@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shweta-nasc/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Shweta-nasc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
