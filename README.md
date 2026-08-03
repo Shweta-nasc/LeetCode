@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shweta-nasc/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Shweta-nasc/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
