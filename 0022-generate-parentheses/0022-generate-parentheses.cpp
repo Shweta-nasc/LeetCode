@@ -1,21 +1,18 @@
 class Solution {
 public:
-    vector<string>ans;
-    void solve(int n,string curr, int o,int c){
-        if(curr.size()==2*n){
+    void solve(int n,int left,int right,string curr,vector<string>&ans){
+        if(curr.length()==2*n){
             ans.push_back(curr);
+        }if(left<n){
+        solve(n,left+1,right,curr+'(',ans);
         }
-        if(o<n){
-            solve(n,curr+"(",o+1,c);
+        if(left>right){
+            solve(n,left,right+1,curr+')',ans);
         }
-      if(c<o){
-             solve(n,curr+")",o,c+1);
-
-        }
-
     }
     vector<string> generateParenthesis(int n) {
-        solve(n,"",0,0);
+        vector<string>ans;
+        solve(n,0,0,"",ans);
         return ans;
     }
 };
