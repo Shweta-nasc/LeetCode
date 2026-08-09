@@ -304,9 +304,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
