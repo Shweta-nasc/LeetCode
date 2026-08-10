@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Shweta-nasc/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-nasc/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Shweta-nasc/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shweta-nasc/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shweta-nasc/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shweta-nasc/LeetCode/tree/master/0733-flood-fill) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Shweta-nasc/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
