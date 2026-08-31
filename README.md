@@ -409,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Shweta-nasc/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Shweta-nasc/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shweta-nasc/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shweta-nasc/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
