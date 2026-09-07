@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shweta-nasc/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-nasc/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shweta-nasc/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1563-stone-game-v](https://github.com/Shweta-nasc/LeetCode/tree/master/1563-stone-game-v) |
