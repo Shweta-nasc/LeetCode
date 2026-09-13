@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shweta-nasc/LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Shweta-nasc/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/Shweta-nasc/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shweta-nasc/LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Shweta-nasc/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/Shweta-nasc/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
