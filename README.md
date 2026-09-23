@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Shweta-nasc/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-nasc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shweta-nasc/LeetCode/tree/master/0051-n-queens) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
