@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shweta-nasc/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Shweta-nasc/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Shweta-nasc/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Shweta-nasc/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Shweta-nasc/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shweta-nasc/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
