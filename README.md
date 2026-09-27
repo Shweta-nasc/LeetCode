@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shweta-nasc/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-nasc/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
 | ------- |
