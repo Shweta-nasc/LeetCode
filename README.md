@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
+| [1200-minimum-absolute-difference](https://github.com/Shweta-nasc/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-nasc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Shweta-nasc/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
