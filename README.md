@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shweta-nasc/LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Shweta-nasc/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Shweta-nasc/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Shweta-nasc/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
@@ -385,15 +386,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shweta-nasc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Shweta-nasc/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shweta-nasc/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shweta-nasc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Shweta-nasc/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shweta-nasc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Shweta-nasc/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Shweta-nasc/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Combinatorics
 |  |
