@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shweta-nasc/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shweta-nasc/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Shweta-nasc/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2678-number-of-senior-citizens](https://github.com/Shweta-nasc/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shweta-nasc/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shweta-nasc/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shweta-nasc/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2678-number-of-senior-citizens](https://github.com/Shweta-nasc/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-nasc/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
