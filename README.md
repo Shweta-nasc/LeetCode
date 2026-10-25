@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Shweta-nasc/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Shweta-nasc/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/Shweta-nasc/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-nasc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shweta-nasc/LeetCode/tree/master/0733-flood-fill) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Shweta-nasc/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shweta-nasc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Shweta-nasc/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Shweta-nasc/LeetCode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shweta-nasc/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/Shweta-nasc/LeetCode/tree/master/2029-stone-game-ix) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Shweta-nasc/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
