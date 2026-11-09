@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shweta-nasc/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shweta-nasc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shweta-nasc/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/Shweta-nasc/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0567-permutation-in-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shweta-nasc/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Shweta-nasc/LeetCode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shweta-nasc/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
