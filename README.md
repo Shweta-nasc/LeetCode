@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Shweta-nasc/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shweta-nasc/LeetCode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Shweta-nasc/LeetCode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/Shweta-nasc/LeetCode/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Shweta-nasc/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shweta-nasc/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Shweta-nasc/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shweta-nasc/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shweta-nasc/LeetCode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/Shweta-nasc/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shweta-nasc/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shweta-nasc/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Shweta-nasc/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Shweta-nasc/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Shweta-nasc/LeetCode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/Shweta-nasc/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
