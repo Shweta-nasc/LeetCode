@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shweta-nasc/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shweta-nasc/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shweta-nasc/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shweta-nasc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Shweta-nasc/LeetCode/tree/master/1563-stone-game-v) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shweta-nasc/LeetCode/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shweta-nasc/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-nasc/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shweta-nasc/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shweta-nasc/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shweta-nasc/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-nasc/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shweta-nasc/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shweta-nasc/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3903-smallest-stable-index-i) |
