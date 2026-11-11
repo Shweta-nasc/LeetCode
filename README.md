@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shweta-nasc/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shweta-nasc/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3693-climbing-stairs-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shweta-nasc/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shweta-nasc/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shweta-nasc/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/Shweta-nasc/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shweta-nasc/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shweta-nasc/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
