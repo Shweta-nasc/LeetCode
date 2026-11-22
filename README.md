@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shweta-nasc/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shweta-nasc/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shweta-nasc/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Shweta-nasc/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2678-number-of-senior-citizens](https://github.com/Shweta-nasc/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shweta-nasc/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
