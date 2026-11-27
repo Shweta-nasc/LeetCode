@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shweta-nasc/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Shweta-nasc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Shweta-nasc/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shweta-nasc/LeetCode/tree/master/0204-count-primes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shweta-nasc/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shweta-nasc/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shweta-nasc/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Shweta-nasc/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Shweta-nasc/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shweta-nasc/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/Shweta-nasc/LeetCode/tree/master/0290-word-pattern) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shweta-nasc/LeetCode/tree/master/0067-add-binary) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shweta-nasc/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Shweta-nasc/LeetCode/tree/master/0832-flipping-an-image) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shweta-nasc/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shweta-nasc/LeetCode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Shweta-nasc/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shweta-nasc/LeetCode/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shweta-nasc/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
